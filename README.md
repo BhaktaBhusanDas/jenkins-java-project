@@ -1,6 +1,7 @@
 # Jenkins Java Project
 
 This project demonstrates a simple Java application integrated with Jenkins for continuous integration and delivery.
+Version: 1.1
 
 ## Features
 
@@ -44,7 +45,3 @@ This project demonstrates a simple Java application integrated with Jenkins for 
 - Java 11 or higher
 - Gradle or Maven
 - Jenkins (for CI/CD)
-
-## License
-
-This project is licensed under the MIT License.
